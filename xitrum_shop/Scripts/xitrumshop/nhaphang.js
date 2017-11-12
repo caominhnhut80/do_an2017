@@ -24,8 +24,6 @@
     });
     $('#okThongbao').click(function () {
         $('#ThongbaoModal').modal('hide');
-        
-
     });
 })
 function loadHangdangnhapkho() {
